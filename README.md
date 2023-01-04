@@ -1,4 +1,4 @@
-# Power-BI---Project
+# Power BI - Project
 💻 Work performed on Power BI 💻
 
 |**Project Name**|**Description**|**Source**|**Status**|
